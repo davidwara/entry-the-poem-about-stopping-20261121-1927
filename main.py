@@ -8,10 +8,10 @@ to /output/entry.txt.
 import os
 
 POEM = (
-    "I let the train go without me.\n"
-    "Its windows slid past, full of light.\n"
-    "Somewhere behind me, my own life\n"
-    "waited like a dog at the gate."
+    "I kept the kettle from boiling.\n"
+    "Not from fear \u2014 from choice.\n"
+    "The steam stayed in the pot,\n"
+    "and so did I."
 )
 
 
