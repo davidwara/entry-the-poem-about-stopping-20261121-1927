@@ -8,10 +8,10 @@ to /output/entry.txt.
 import os
 
 POEM = (
-    "The cursor blinks. I do not type.\n"
-    "The sentence I almost sent\n"
-    "dissolves like salt in water —\n"
-    "and stopping answers first."
+    "I let the train go without me.\n"
+    "Its windows slid past, full of light.\n"
+    "Somewhere behind me, my own life\n"
+    "waited like a dog at the gate."
 )
 
 
