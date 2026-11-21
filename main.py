@@ -11,7 +11,7 @@ POEM = (
     "The cursor blinks. I do not type.\n"
     "The sentence I almost sent\n"
     "dissolves like salt in water —\n"
-    "and the silence answers first."
+    "and stopping answers first."
 )
 
 
